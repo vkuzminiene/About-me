@@ -1,2 +1,2 @@
-# About-me!
-[Untitled design](https://github.com/vkuzminiene/About-me/assets/173442886/3101b4cf-f821-466f-a7c8-f30ab5398e76)
+
+In this link you will find Funnels Graded task and related queries. https://docs.google.com/spreadsheets/d/13dvGv0E2ahK4tZJupBg5Mno5jXLOwFtRB-JxF5NqXnU/edit?usp=sharing
